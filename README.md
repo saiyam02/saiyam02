@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Saiyam Jain
 A passionate full stack web developer !!!
 # 💫 About Me:
-# Hi, I'm Saiyam Jain 👋<br><br>![Profile Banner](./github-header-image.png)<br><br>I'm a passionate software  developer. Welcome to my GitHub profile, where I showcase my journey and projects as I continue to grow and learn.<br><br>## About Me<br><br>- 🔭 I'm currently working as a software developer at Veersa Technologies. <br>- 🌱 I'm passionate about software development and constantly exploring new technologies<br>- 👯 I'm actively seeking new software development opportunities<br>-📫 Connect with me on [LinkedIn](https://linkedin.com/in/saiyam-jain-326b7b194)<br>
+# Hi, I'm Saiyam Jain 👋<br><br>I'm a passionate software  developer. Welcome to my GitHub profile, where I showcase my journey and projects as I continue to grow and learn.<br><br>## About Me<br><br>- 🔭 I'm currently working as a software developer at Veersa Technologies. <br>- 🌱 I'm passionate about software development and constantly exploring new technologies<br>- 👯 I'm actively seeking new software development opportunities<br>-📫 Connect with me on [LinkedIn](https://linkedin.com/in/saiyam-jain-326b7b194)<br>
 
 
 ## 🌐 Socials:
